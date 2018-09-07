@@ -1,0 +1,7 @@
+com\autotest\agent\log\analysis\dao\LogFileDao.class
+com\autotest\agent\log\analysis\bean\MethodBean.class
+com\autotest\agent\log\analysis\service\LogFileService.class
+com\autotest\agent\log\analysis\service\impl\LogFileServiceImpl.class
+com\autotest\agent\log\analysis\controller\CheckLogFileController.class
+com\autotest\agent\log\analysis\bean\LogFileBean.class
+com\autotest\agent\log\analysis\App.class
